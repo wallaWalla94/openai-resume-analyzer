@@ -1,4 +1,12 @@
-node_modules/
+# Secrets
 .env
-dist/
-build/
+
+# C++ build files
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Logs / temp
+*.log
+*.tmp
