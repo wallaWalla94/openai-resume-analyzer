@@ -1,0 +1,25 @@
+Requirements
+
+Bachelor’s degree in Computer Science, Software Engineering, or related field (or equivalent experience)
+
+Strong understanding of programming fundamentals (e.g., Python, Java, C++, JavaScript)
+
+Familiarity with data structures, algorithms, and object-oriented programming
+
+Basic knowledge of web development, APIs, or databases is a plus
+
+Good problem-solving and analytical skills
+
+Strong communication and teamwork skills
+
+Eagerness to learn and grow in a fast-paced environment
+
+Preferred Qualifications (Nice to Have)
+
+Internship or project experience in software development
+
+Experience with frameworks like React, Node.js, or similar
+
+Familiarity with version control systems like Git
+
+Exposure to cloud platforms (AWS, Azure, or GCP)

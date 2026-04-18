@@ -1,0 +1,34 @@
+Carlos Loya
+Software Engineer
+Seattle, WA | carlos94.noe@gmail.com | 425.517.7959 | linkedin.com/in/carlos-loya94/
+PROFESSIONAL SUMMARY
+Recent Software and Networks Engineering graduate with strong experience in C, C++, C#, and
+Python programming. Solid foundation in computer science fundamentals including data structures,
+algorithms, object-oriented programming, and database design. Experience developing algorithmic
+solutions, systems programming projects, and modular software applications while using Git and
+agile workflows. Strong debugging and analytical problem-solving skills with an interest in building
+reliable, scalable software systems.
+TECHNICAL SKILLS
+Programming languages: C/C++, C#, Python, x86 Assembly
+Computer Science Fundamentals: Data Structures, Algorithms, Object-Oriented Programming,
+Recursion, Dynamic Programming, Agile Development, Database Design, Version Control Systems
+Tools: Git, VS Code, Cisco Packet Tracer, Unity, Godot, Unreal Engin
+Languages: Spanish (Native), English (Fluent), Vietnamese (Beginner)
+PROFESSIONAL EXPERIENCE
+Independent Contractor : Appen / Butterhill | Remote | 2018 – 2023
+Supported long-term data and AI evaluation projects requiring high accuracy, analytical consistency,
+and process discipline across large-scale systems.
+TECHNICAL PROJECTS
+Algorithmic Problem Solving – C++: Implemented solutions involving dynamic programming, arrays,
+vectors, hash maps, recursion, and string processing. School exercises, projects and LeetCode coding
+challenges.
+Game Development Projects – C# Designed and implemented two game projects coding in C# with
+modular, object-oriented architecture, built gameplay systems, event-driven interactions, and
+troubleshoot logic behaviour.
+Systems Programming Projects – x86 Assembly: Developed low-level programs including a
+calculator, number comparison tools, and simple survey logic to understand processor coding
+instructions and memory behavior.
+EDUCATION
+B.S. in Software and Networks Engineering | Universidad Tecnologica de Mexico UNITEC, Mexico City,
+Mexico | 2026
+Cisco Certified Network Associate (CCNA 200-301) | 2025
